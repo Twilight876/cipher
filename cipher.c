@@ -42,5 +42,6 @@ int main (void){
     return 0;
 
 }
-//Agggh finally i solved it a bug was bec shift is read as string silly mistake Ali
+//Agggh finally i solved the  bug. it was bec shift is read as string silly mistake Ali do better
 //project by Ali
+// what's your review 
